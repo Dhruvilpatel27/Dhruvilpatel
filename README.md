@@ -1,3 +1,3 @@
-# Dhruvilpatel.github.io
+# Dhruvilpatel27.github.io
 
 Personal resume website
