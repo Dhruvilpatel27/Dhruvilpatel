@@ -1,3 +1,3 @@
-# Vandita2020.github.io
+# Dhruvilpatel.github.io
 
 Personal resume website
